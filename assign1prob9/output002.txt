@@ -1,0 +1,1 @@
+For best solution choose items at indexs [0, 2] for a total value of $215.0 and a total weight of 15.0lbs
