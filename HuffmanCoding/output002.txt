@@ -1,0 +1,21 @@
+  1010110  0.8929%
+   010110  1.7857%
+!  1010111  0.8929%
+"  010111  1.7857%
+'  101000  1.7857%
+.  1010010  0.8929%
+?  1010011  0.8929%
+A  1011  8.9286%
+B  100  13.3929%
+C  11  30.3571%
+D  0100  4.4643%
+E  011  10.7143%
+e  1010100  0.8929%
+F  00  18.75%
+f  1010101  0.8929%
+G  01010  2.6786%
+Average codeword length: 3.0714479999999997 bits
+Original size (bits): 896
+Encoding size (bits): 344
+Compression ratio: 38.392857142857146%
+Compression ratio calulated by Encoding size/Original size)*100
