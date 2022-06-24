@@ -1,0 +1,98 @@
+e e c a
+a l e p
+h n b o
+q t t y
+
+
+ace
+ale
+ane
+ape
+bee
+bop
+bot
+boy
+cee
+cel
+cen
+cep
+ean
+eel
+ela
+enl
+hae
+lah
+lep
+nae
+nep
+nth
+obe
+ope
+pea
+pec
+pee
+pot
+toe
+top
+toy
+yob
+albe
+alee
+bent
+blae
+blah
+blee
+bott
+capo
+cent
+clan
+eale
+lant
+leap
+leep
+neap
+pela
+pent
+pott
+thae
+than
+tobe
+toea
+tope
+anele
+becap
+belah
+belee
+bento
+benty
+bleep
+blent
+capot
+celeb
+clean
+lento
+neele
+penal
+thane
+topee
+toecap
+yblent
+benthal
+capelan
+=====================================
+Total of 32 words of length 3
+Total of 23 words of length 4
+Total of 16 words of length 5
+Total of 2 words of length 6
+Total of 2 words of length 7
+Total of 0 words of length 8
+Total of 0 words of length 9
+Total of 0 words of length 10
+Total of 0 words of length 11
+Total of 0 words of length 12
+Total of 0 words of length 13
+Total of 0 words of length 14
+Total of 0 words of length 15
+Total of 0 words of length 16
+=====================================
+A total of 75 words were found

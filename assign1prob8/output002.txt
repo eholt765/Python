@@ -1,0 +1,25 @@
+z z z z
+z b a t
+z c z z
+z z z z
+
+
+bat
+tab
+=====================================
+Total of 2 words of length 3
+Total of 0 words of length 4
+Total of 0 words of length 5
+Total of 0 words of length 6
+Total of 0 words of length 7
+Total of 0 words of length 8
+Total of 0 words of length 9
+Total of 0 words of length 10
+Total of 0 words of length 11
+Total of 0 words of length 12
+Total of 0 words of length 13
+Total of 0 words of length 14
+Total of 0 words of length 15
+Total of 0 words of length 16
+=====================================
+A total of 2 words were found
